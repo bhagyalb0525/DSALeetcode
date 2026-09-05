@@ -81,4 +81,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
