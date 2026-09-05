@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0001-two-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
