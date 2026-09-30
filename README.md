@@ -128,6 +128,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0468-validate-ip-address](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0468-validate-ip-address) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,4 +154,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
