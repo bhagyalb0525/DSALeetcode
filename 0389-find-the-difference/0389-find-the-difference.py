@@ -13,9 +13,7 @@ class Solution:
             else:
                 freq2[i]+=1
         for ch in freq2:
-            if ch not in freq1:
-                return ch
-            if freq1[ch]!=freq2[ch]:
+            if ch not in freq1 or freq1[ch]!=freq2[ch]:
                 return ch
         
       
