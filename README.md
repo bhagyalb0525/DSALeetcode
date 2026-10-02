@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0198-house-robber](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0322-coin-change) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0740-delete-and-earn](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0875-koko-eating-bananas) |
@@ -91,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0740-delete-and-earn](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0740-delete-and-earn) |
 ## Math
 |  |
@@ -148,6 +150,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
 ## Hungarian Algorithm
 |  |
