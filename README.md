@@ -90,6 +90,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0001-two-sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
 | [0740-delete-and-earn](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0740-delete-and-earn) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
 | [0468-validate-ip-address](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0468-validate-ip-address) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
@@ -145,6 +147,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
 ## Hungarian Algorithm
 |  |
@@ -158,4 +161,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
