@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
@@ -154,6 +155,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0011-container-with-most-water) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
 ## Sorting
 |  |
@@ -189,6 +191,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0287-find-the-duplicate-number) |
