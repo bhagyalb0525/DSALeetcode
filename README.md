@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -157,6 +158,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0169-majority-element) |
@@ -187,6 +189,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
