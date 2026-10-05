@@ -142,6 +142,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0394-decode-string) |
 | [0468-validate-ip-address](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0468-validate-ip-address) |
@@ -200,6 +201,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
