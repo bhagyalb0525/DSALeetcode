@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -98,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0001-two-sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
@@ -139,6 +141,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0394-decode-string) |
 | [0468-validate-ip-address](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0468-validate-ip-address) |
@@ -162,6 +165,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0169-majority-element) |
