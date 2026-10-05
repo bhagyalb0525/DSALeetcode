@@ -140,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0394-decode-string) |
 | [0468-validate-ip-address](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0468-validate-ip-address) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
@@ -178,6 +179,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
 |  |
@@ -224,4 +226,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
