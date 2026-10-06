@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -236,4 +237,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0394-decode-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
