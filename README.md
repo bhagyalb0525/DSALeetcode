@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0875-koko-eating-bananas](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
+| [1991-find-the-middle-index-in-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +248,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0238-product-of-array-except-self) |
+| [1991-find-the-middle-index-in-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Linked List
 |  |
 | ------- |
