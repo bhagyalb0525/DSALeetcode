@@ -97,6 +97,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
 | [1991-find-the-middle-index-in-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,4 +268,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
