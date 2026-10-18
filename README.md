@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0015-3sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
@@ -127,6 +128,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0198-house-robber) |
@@ -244,6 +246,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
