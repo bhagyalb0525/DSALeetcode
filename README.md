@@ -93,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0238-product-of-array-except-self](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0739-daily-temperatures) |
@@ -134,6 +135,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0198-house-robber](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -181,6 +183,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -193,6 +196,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
