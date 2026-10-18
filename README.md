@@ -100,6 +100,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
 | [1991-find-the-middle-index-in-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -224,6 +227,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0151-reverse-words-in-a-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
