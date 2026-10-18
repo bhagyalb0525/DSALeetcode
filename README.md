@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0015-3sum](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -126,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0213-house-robber-ii) |
@@ -176,6 +178,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
