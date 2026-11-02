@@ -120,6 +120,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0740-delete-and-earn](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0740-delete-and-earn) |
 | [2325-decode-the-message](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2325-decode-the-message) |
 ## Math
@@ -168,6 +169,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0151-reverse-words-in-a-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0394-decode-string) |
+| [0451-sort-characters-by-frequency](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0468-validate-ip-address) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2325-decode-the-message](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2325-decode-the-message) |
@@ -202,6 +204,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0389-find-the-difference](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
@@ -262,6 +265,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -302,4 +306,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
