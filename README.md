@@ -126,6 +126,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -283,6 +284,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
@@ -292,6 +294,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Monotonic Stack
