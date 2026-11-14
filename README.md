@@ -295,6 +295,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Monotonic Stack
