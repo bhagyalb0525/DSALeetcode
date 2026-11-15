@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0056-merge-intervals](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0213-house-robber-ii) |
@@ -181,6 +182,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
