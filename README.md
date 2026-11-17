@@ -323,4 +323,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
