@@ -105,6 +105,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0875-koko-eating-bananas](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1029-two-city-scheduling) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1991-find-the-middle-index-in-array](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhagyalb0525/DSALeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -227,6 +228,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0394-decode-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -307,6 +309,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/bhagyalb0525/DSALeetcode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhagyalb0525/DSALeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Manacher
 |  |
 | ------- |
